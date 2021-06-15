@@ -1,4 +1,4 @@
-# MIS311-Web-Project
+# MIS311-Final-Project
 
 The group members
 
